@@ -1,0 +1,76 @@
+{
+    "products" : [
+    {
+        "id": 1,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+    },
+    {
+        "id": 2,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    },
+    {
+        "id": 3,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    },
+    {
+        "id": 4,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    },
+    {
+        "id": 5,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    },
+    {
+        "id": 6,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    },
+    {
+        "id": 7,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    },
+    {
+        "id": 8,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+
+    }
+
+]
+}
