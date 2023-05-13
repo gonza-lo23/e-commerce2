@@ -6,6 +6,8 @@
         "size": "m",
         "color":"black",
         "quantity":"3",
+        "price":300,
+        "stock":5,
         "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
     },
     {
@@ -14,42 +16,8 @@
         "size": "m",
         "color":"black",
         "quantity":"3",
-        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
-
-    },
-    {
-        "id": 3,
-        "title": "camisa",
-        "size": "m",
-        "color":"black",
-        "quantity":"3",
-        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
-
-    },
-    {
-        "id": 4,
-        "title": "camisa",
-        "size": "m",
-        "color":"black",
-        "quantity":"3",
-        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
-
-    },
-    {
-        "id": 5,
-        "title": "camisa",
-        "size": "m",
-        "color":"black",
-        "quantity":"3",
-        "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
-
-    },
-    {
-        "id": 6,
-        "title": "camisa",
-        "size": "m",
-        "color":"black",
-        "quantity":"3",
+        "price":300,
+        "stock":5,
         "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
 
     },
@@ -59,6 +27,8 @@
         "size": "m",
         "color":"black",
         "quantity":"3",
+        "price":300,
+        "stock":5,
         "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
 
     },
@@ -68,9 +38,98 @@
         "size": "m",
         "color":"black",
         "quantity":"3",
+        "price":300,
+        "stock":5,
         "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
 
-    }
-
-]
+    },
+    
+        {
+            "id": 9,
+            "title": "camisa",
+            "size": "m",
+            "color":"black",
+            "quantity":3,
+            "price":300,
+            "stock":5,
+            "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+        },
+        {
+            "id": 10,
+            "title": "camisa",
+            "size": "m",
+            "color":"black",
+            "quantity":"3",
+            "price":"300",
+            "stock":5,
+            "img" :"https://i.pinimg.com/564x/9b/17/08/9b1708992bc767e5a28ff800091cbc88.jpg"
+      
+        },
+        {
+            "id": 11,
+            "title": "camisa",
+            "size": "m",
+            "color":"black",
+            "quantity":"3",
+            "price":"300", 
+            "stock":5,
+            "img":"https://i.pinimg.com/736x/c2/19/8c/c2198cc949555b311e5d31adfc4860e3.jpg"
+      
+        },
+        {
+            "id": 12,
+            "title": "camisa",
+            "size": "m",
+            "color":"black",
+            "quantity":"3",
+            "price":"300",
+            "stock":5,
+            "img":"https://i.pinimg.com/564x/06/a2/f2/06a2f269b4cde2c3f428d0d476f55a16.jpg"
+      
+        },
+        {
+          "id": 13,
+          "title": "camisa",
+          "size": "m",
+          "color":"black",
+          "quantity":"3",
+          "price":"300", 
+          "stock":5,
+          "img":"https://i.pinimg.com/564x/9b/17/08/9b1708992bc767e5a28ff800091cbc88.jpg"
+      },
+      {
+        "id": 14,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "price":"300", 
+        "stock":5,
+        "img":"https://i.pinimg.com/736x/c2/19/8c/c2198cc949555b311e5d31adfc4860e3.jpg"
+      
+      },
+      {
+        "id": 15,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "price":"300", 
+        "stock":5,
+        "img":"https://i.pinimg.com/736x/c2/19/8c/c2198cc949555b311e5d31adfc4860e3.jpg"
+      
+      },
+      {
+        "id": 16,
+        "title": "camisa",
+        "size": "m",
+        "color":"black",
+        "quantity":"3",
+        "price":"300", 
+        "stock":5,
+        "img":"https://i.pinimg.com/736x/c2/19/8c/c2198cc949555b311e5d31adfc4860e3.jpg"
+      
+      }
+      
+    ]
 }

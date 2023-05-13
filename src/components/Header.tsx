@@ -4,34 +4,23 @@ import '../styles/Header.css'
 function Header() {
   return (
     <div className='
-    md:container
     md:flex
-    md:items-center 
-    mx-auto
-    m-20
-    h-auto
-    w-auto
-    px-1
-    bg-white
-    md:justify-between
-
-    '>
-    <div id='container-img'>
+    my-40
+    px-5
     
-    <img  className='m-2 'src="https://i.pinimg.com/564x/17/f5/a1/17f5a15ffc3dd4104491d196d064e682.jpg" alt="phone-case" />
+    '>
+    <div >
+    <img  className='pr-28 pl-12 h-auto 'src="https://i.pinimg.com/564x/2f/d3/48/2fd3481d7a5a6f9a2fef12272849f9be.jpg" alt="phone-case" />
     </div>
-    <div className='
-    
-    '>
+    <div className=''>
     <h1 className='
     text-7xl 
     w-auto
-    m-3 mb-8
+    m-3 mb-4 pb-20
     '>
-    Welcome to Land LA</h1>
+     Check Your Style</h1>
     <span  className='text-3xl'>
-        were toe as djadijasdjas
-        dasijdada dasdaisjdiasjdijasdijasid
+        when, where and how ?? the place were you will find the asnw
     </span>
     </div>
     </div>

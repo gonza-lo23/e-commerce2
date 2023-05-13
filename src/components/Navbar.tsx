@@ -1,6 +1,9 @@
 import * as React from 'react'
 import { FaBeer } from 'react-icons/fa'
 import { FcMenu } from 'react-icons/fc'
+import { BsSearch } from 'react-icons/bs';
+import { FaUserAlt } from 'react-icons/fa'
+
 
 
 function Navbar() {
@@ -28,18 +31,15 @@ function Navbar() {
             <li className='m-2 ml-3 mr-3'>search</li>
         </ul>
         </div>
-        <div>
-            <button className='bg-gray-300 cursor-pointer'>L</button>
+        <div className='bg-gray-300 w-56 border-2 border-black rounded-md'>
+            <button className='m-2 cursor-pointer'><BsSearch/></button>
         </div>
         <div className='cursor-pointer' > 
         <ul className='md:flex'>
-        <li className='m-2 ml-1 mr-4'>Log in</li>
+        <li className='m-2 ml-1 mr-4'><FaUserAlt/></li>
         <div className='
-        flex
-        border-2
-        rounded-lg
-        bg-gray-300'>
-        <li className='m-1 mt-2'>2</li>
+        flex'>
+        <li className='m-1 mt-2 '>2</li>
         <li className='m-2 mt-3 ml-1 mr-3'><FaBeer/></li>
         </div>
         </ul>
